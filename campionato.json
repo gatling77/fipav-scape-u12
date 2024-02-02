@@ -1,0 +1,221 @@
+{
+ "last_update": "2024-02-02",
+ "matches": [
+  {
+   "match": "Dom 05/11/2023 10.30",
+   "day": "Gara 4001",
+   "local": "G.s. San Giorgio Luraghese A.s.d.",
+   "guest": "Gs Villa Guardia",
+   "local-score": 3,
+   "guest-score": 0
+  },
+  {
+   "match": "Dom 12/11/2023 16.30",
+   "day": "Gara 4002",
+   "local": "Polisportiva Bregnanese",
+   "guest": "Usd Cacciatori Delle Alpi",
+   "local-score": 0,
+   "guest-score": 3
+  },
+  {
+   "match": "Sab 04/11/2023 15.45",
+   "day": "Gara 4003",
+   "local": "Fielmann Como Volley",
+   "guest": "Olimpia Volley Cassina",
+   "local-score": 3,
+   "guest-score": 2
+  },
+  {
+   "match": "Dom 12/11/2023 10.30",
+   "day": "Gara 4004",
+   "local": "Gs Villa Guardia",
+   "guest": "Fielmann Como Volley",
+   "local-score": 1,
+   "guest-score": 3
+  },
+  {
+   "match": "Sab 11/11/2023 18.30",
+   "day": "Gara 4005",
+   "local": "Usd Cacciatori Delle Alpi",
+   "guest": "G.s. San Giorgio Luraghese A.s.d.",
+   "local-score": 0,
+   "guest-score": 3
+  },
+  {
+   "match": "Sab 18/11/2023 16.30",
+   "day": "Gara 4006",
+   "local": "Olimpia Volley Cassina",
+   "guest": "Polisportiva Bregnanese",
+   "local-score": 1,
+   "guest-score": 3
+  },
+  {
+   "match": "Dom 19/11/2023 10.30",
+   "day": "Gara 4007",
+   "local": "G.s. San Giorgio Luraghese A.s.d.",
+   "guest": "Olimpia Volley Cassina",
+   "local-score": 3,
+   "guest-score": 0
+  },
+  {
+   "match": "Dom 19/11/2023 10.00",
+   "day": "Gara 4008",
+   "local": "Fielmann Como Volley",
+   "guest": "Polisportiva Bregnanese",
+   "local-score": 3,
+   "guest-score": 0
+  },
+  {
+   "match": "Dom 21/01/2024 10.30",
+   "day": "Gara 4009",
+   "local": "Usd Cacciatori Delle Alpi",
+   "guest": "Gs Villa Guardia",
+   "local-score": 3,
+   "guest-score": 1
+  },
+  {
+   "match": "Sab 25/11/2023 16.30",
+   "day": "Gara 4010",
+   "local": "Polisportiva Bregnanese",
+   "guest": "G.s. San Giorgio Luraghese A.s.d.",
+   "local-score": 0,
+   "guest-score": 3
+  },
+  {
+   "match": "Sab 25/11/2023 16.00",
+   "day": "Gara 4011",
+   "local": "Fielmann Como Volley",
+   "guest": "Usd Cacciatori Delle Alpi",
+   "local-score": 1,
+   "guest-score": 3
+  },
+  {
+   "match": "Sab 25/11/2023 16.30",
+   "day": "Gara 4012",
+   "local": "Olimpia Volley Cassina",
+   "guest": "Gs Villa Guardia",
+   "local-score": 1,
+   "guest-score": 3
+  },
+  {
+   "match": "Dom 03/12/2023 10.30",
+   "day": "Gara 4013",
+   "local": "G.s. San Giorgio Luraghese A.s.d.",
+   "guest": "Fielmann Como Volley",
+   "local-score": 3,
+   "guest-score": 0
+  },
+  {
+   "match": "Dom 03/12/2023 10.30",
+   "day": "Gara 4014",
+   "local": "Gs Villa Guardia",
+   "guest": "Polisportiva Bregnanese",
+   "local-score": 3,
+   "guest-score": 2
+  },
+  {
+   "match": "Sab 02/12/2023 18.30",
+   "day": "Gara 4015",
+   "local": "Usd Cacciatori Delle Alpi",
+   "guest": "Olimpia Volley Cassina",
+   "local-score": 3,
+   "guest-score": 0
+  },
+  {
+   "match": "Dom 10/12/2023 10.30",
+   "day": "Gara 4016",
+   "local": "Gs Villa Guardia",
+   "guest": "G.s. San Giorgio Luraghese A.s.d.",
+   "local-score": 0,
+   "guest-score": 3
+  },
+  {
+   "match": "Gio 14/12/2023 18.30",
+   "day": "Gara 4017",
+   "local": "Usd Cacciatori Delle Alpi",
+   "guest": "Polisportiva Bregnanese",
+   "local-score": 2,
+   "guest-score": 3
+  },
+  {
+   "match": "Sab 16/12/2023 16.30",
+   "day": "Gara 4018",
+   "local": "Olimpia Volley Cassina",
+   "guest": "Fielmann Como Volley",
+   "local-score": 0,
+   "guest-score": 3
+  },
+  {
+   "match": "Dom 14/01/2024 15.00",
+   "day": "Gara 4019",
+   "local": "Fielmann Como Volley",
+   "guest": "Gs Villa Guardia",
+   "local-score": 3,
+   "guest-score": 0
+  },
+  {
+   "match": "Dom 14/01/2024 15.30",
+   "day": "Gara 4020",
+   "local": "G.s. San Giorgio Luraghese A.s.d.",
+   "guest": "Usd Cacciatori Delle Alpi",
+   "local-score": 3,
+   "guest-score": 0
+  },
+  {
+   "match": "Gio 11/01/2024 19.30",
+   "day": "Gara 4021",
+   "local": "Polisportiva Bregnanese",
+   "guest": "Olimpia Volley Cassina",
+   "local-score": 3,
+   "guest-score": 1
+  },
+  {
+   "match": "Sab 20/01/2024 16.30",
+   "day": "Gara 4022",
+   "local": "Olimpia Volley Cassina",
+   "guest": "G.s. San Giorgio Luraghese A.s.d.",
+   "local-score": 0,
+   "guest-score": 3
+  },
+  {
+   "match": "Sab 20/01/2024 16.30",
+   "day": "Gara 4023",
+   "local": "Polisportiva Bregnanese",
+   "guest": "Fielmann Como Volley",
+   "local-score": 2,
+   "guest-score": 3
+  },
+  {
+   "match": "Ven 19/01/2024 17.45",
+   "day": "Gara 4024",
+   "local": "Gs Villa Guardia",
+   "guest": "Usd Cacciatori Delle Alpi",
+   "local-score": 0,
+   "guest-score": 3
+  },
+  {
+   "match": "Dom 28/01/2024 10.30",
+   "day": "Gara 4025",
+   "local": "G.s. San Giorgio Luraghese A.s.d.",
+   "guest": "Polisportiva Bregnanese",
+   "local-score": 3,
+   "guest-score": 0
+  },
+  {
+   "match": "Sab 27/01/2024 18.30",
+   "day": "Gara 4026",
+   "local": "Usd Cacciatori Delle Alpi",
+   "guest": "Fielmann Como Volley",
+   "local-score": 3,
+   "guest-score": 2
+  },
+  {
+   "match": "Dom 28/01/2024 10.30",
+   "day": "Gara 4027",
+   "local": "Gs Villa Guardia",
+   "guest": "Olimpia Volley Cassina",
+   "local-score": 3,
+   "guest-score": 0
+  }
+ ]
+}
