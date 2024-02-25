@@ -56,7 +56,7 @@ def scrape(url):
     return torneo
 
 def main():
-    champ = scrape("https://www.fipavonline.it/main/gare_girone/47101/1")
+    champ = scrape("https://www.fipavonline.it/main/gare_girone/49246/1")
     with open("campionato.json", "w") as out_file: 
         json.dump(champ.to_json(),indent=True, fp= out_file)
     

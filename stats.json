@@ -1,71 +1,27 @@
 {
- "lastUpdate": "2024-02-04",
+ "lastUpdate": "2024-02-25",
  "stats": [
   {
-   "name": "G.s. San Giorgio Luraghese A.s.d.",
-   "playedMatches": 10,
-   "homeMatches": 5,
-   "guestMatches": 5,
-   "matchesWon": 10,
+   "name": "Polisportiva Colverde",
+   "playedMatches": 1,
+   "homeMatches": 1,
+   "guestMatches": 0,
+   "matchesWon": 1,
    "matchesWon3_2": 0,
    "matchesLost": 0,
    "matchesLost2_3": 0,
-   "totalPoints": 30
+   "totalPoints": 3
   },
   {
-   "name": "Usd Cacciatori Delle Alpi",
-   "playedMatches": 10,
-   "homeMatches": 5,
-   "guestMatches": 5,
-   "matchesWon": 7,
-   "matchesWon3_2": 1,
-   "matchesLost": 3,
-   "matchesLost2_3": 1,
-   "totalPoints": 21
-  },
-  {
-   "name": "Fielmann Como Volley",
-   "playedMatches": 10,
-   "homeMatches": 5,
-   "guestMatches": 5,
-   "matchesWon": 6,
-   "matchesWon3_2": 2,
-   "matchesLost": 4,
-   "matchesLost2_3": 1,
-   "totalPoints": 17
-  },
-  {
-   "name": "Polisportiva Bregnanese",
-   "playedMatches": 10,
-   "homeMatches": 5,
-   "guestMatches": 5,
-   "matchesWon": 3,
-   "matchesWon3_2": 1,
-   "matchesLost": 7,
-   "matchesLost2_3": 3,
-   "totalPoints": 11
-  },
-  {
-   "name": "Gs Villa Guardia",
-   "playedMatches": 10,
-   "homeMatches": 5,
-   "guestMatches": 5,
-   "matchesWon": 4,
-   "matchesWon3_2": 2,
-   "matchesLost": 6,
-   "matchesLost2_3": 0,
-   "totalPoints": 10
-  },
-  {
-   "name": "Olimpia Volley Cassina",
-   "playedMatches": 10,
-   "homeMatches": 5,
-   "guestMatches": 5,
+   "name": "Gs Villa Guardia Blu",
+   "playedMatches": 1,
+   "homeMatches": 0,
+   "guestMatches": 1,
    "matchesWon": 0,
    "matchesWon3_2": 0,
-   "matchesLost": 10,
-   "matchesLost2_3": 1,
-   "totalPoints": 1
+   "matchesLost": 1,
+   "matchesLost2_3": 0,
+   "totalPoints": 0
   }
  ]
 }
